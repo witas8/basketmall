@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">Basketmall</string>
+    <string name="fruit_aisle">Fruit Aisle</string>
+    <string name="vege_aisle">Vegetables Aisle</string>
+    <string name="dairy_aisle">Dairy Aisle</string>
+    <string name="cj_aisle">Canned and Jarred Aisle</string>
+    <string name="drinks_aisle">Drinks Aisle</string>
+    <string name="others_aisle">Others Aisle</string>
+    <string name="db_aisle">Dry and Baking Aisle</string>
+    <string name="pc_aisle">Personal Care Aisle</string>
+    <string name="cleaners_aisle">Dry and Baking Aisle</string>
+    <string name="meat_fish_aisle">Meat and Fish Aisle</string>
+    <string name="throw_basket">Throw to the basket</string>
+    <string name="show_the_basket">Show your basket</string>
+    <string name="addButton">Add Item</string>
+    <string name="myInput">What else to the basket?</string>
+    <string name="delete">Delete</string>
+    <string name="shopping_list">Shopping List</string>
+    <string name="shopping_time">Set the shopping time</string>
+    <string name="delete_all">Delete all</string>
+    <string name="new_basket">New basket</string>
+    <string name="in_basket">Throw something to your basket</string>
+    <string name="back2menu">Back to menu</string>
+    <string name="set">set</string>
+    <string name="reset">reset time and date</string>
+    <string name="clear">clear</string>
+    <string name="set_shopping_time">What time are you going for shopping?</string>
+    <string name="set_time">Set shopping time</string>
+    <string name="set_date">Set shopping date</string>
+    <string name="set_notification">set notification</string>
+    <string name="cancel_notification">cancel notification</string>
+</resources>

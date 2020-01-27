@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/show_basket"
+        android:title="@string/show_the_basket"
+        app:showAsAction="always"/>
+
+    <item
+        android:id="@+id/shopping_time"
+        android:title="@string/shopping_time"
+        app:showAsAction="always"/>
+
+    <item
+        android:id="@+id/back_menu"
+        android:title="@string/back2menu"
+        app:showAsAction="always"/>
+
+</menu>
